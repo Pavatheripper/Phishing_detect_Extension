@@ -86,8 +86,8 @@ def support_vector_machines(dataset,class_labels,test_size):
 
 def main():
 
-	dataset = "E:\IT20668822_ISP\Dataset.csv"
-	class_labels = "E:\IT20668822_ISP\Target_Labels.csv"
+	dataset = "E:\IT20668822_SSS\Dataset.csv"
+	class_labels = "E:\IT20668822_SSS\Target_Labels.csv"
 	test_size = 0.3
 
 	print ("\nrunning neural networks...")
